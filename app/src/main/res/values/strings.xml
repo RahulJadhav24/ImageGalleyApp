@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Image Galley</string>
+    <string name="image_gallery" translatable="false">Image Galley</string>
+    <string name="retry" translatable="false">Retry</string>
+    <string name="internet_error" translatable="false">Internet Not Available</string>
+    <string name="grid_view">Grid View</string>
+    <string name="list_view">List View</string>
+</resources>

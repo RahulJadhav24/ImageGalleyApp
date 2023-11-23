@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="grey">#B2B5B7</color>
+    <color name="darkGrey">#565F61</color>
+    <color name="background">#ffffff</color>
+    <color name="whiteColor">#ffffff</color>
+    <color name="headingColor">#202020</color>
+    <color name="cardBackground">#F8F1CD</color>
+    <color name="searchBackground">#F2F2F2</color>
+</resources>
